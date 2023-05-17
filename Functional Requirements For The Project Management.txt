@@ -1,0 +1,80 @@
+Functional Requirements
+1. User Registrations:
+1.1 This System will help and provide user form that includes fields for name, email and password.
+1.2 The system shall store the user's information securely and encrypt passwords.
+
+2. User Authentication:
+2.1 The system shall provide a login form where registered users can enter their email and password.
+2.2 The system shall provide a password recovery/reset functionality to allow users to reset their passwords.
+
+3. Project Creation:
+3.1 The system shall provide a form for creating new projects, allowing users to enter a project name, start date, and end date.
+3.2 The system shall associate each project with a project owner and assign a unique identifier to each project.
+
+4. Task Creation:
+4.1 The system shall allow users to create tasks within projects, providing fields for a task title, description, assigned user(s), start date, end date, and priority.
+4.2 The system shall assign a unique identifier to each task created.
+
+5. File Upload:
+5.1 The system shall enable users to upload files and associate them with projects or tasks.
+5.2 The system shall securely store uploaded files and ensure their accessibility to authorized project members.
+5.3 The system shall support various file formats and sizes.
+
+6. Team Communication:
+6.1 The system shall provide communication channels (such as chat or comments) for project members to interact and collaborate.
+6.2 The system shall allow real-time messaging and notifications for effective team communication.
+6.3 The system shall provide the ability to tag users or notify specific team members in conversations.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

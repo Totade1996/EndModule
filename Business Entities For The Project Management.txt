@@ -1,0 +1,35 @@
+Business Entities For The Project Management:
+ 
+1. USER:
+email address
+password
+phone number 
+name
+
+2. LOGIN:
+email_id
+password
+
+3. USER DETAILS:
+name 
+category
+contact_no
+state
+
+4. USER ADDRESS & LOCATION:
+title
+image
+place 
+price
+
+
+Business Operations:
+
+
+
+
+
+
+
+
+
